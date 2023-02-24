@@ -1,0 +1,7 @@
+1 - Abrir o projeto pelo Unity Hub
+2 - Procurar pela cena Game em Assets/@Asteroids/Scenes e abrir
+3 - Dar play no editor
+
+Controles:
+Movimentação pelo WASD ou setinhas
+Atira apertando barra de espaço ou Z ou J
